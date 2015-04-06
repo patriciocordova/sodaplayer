@@ -18,8 +18,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2445bd27-bafb-4341-8379-1b6e4f9a4446" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\sodaplayer\build\intermediates\dex-cache\cache.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\sodaplayer\build\intermediates\model_data.bin" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\cache.properties.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\outputFileStates.bin" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\taskArtifacts.bin" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sodaplayer.iws" />
@@ -1449,7 +1453,11 @@
       <created>1428356658163</created>
       <updated>1428356658163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Remove build folder.">
+      <created>1428356872348</created>
+      <updated>1428356872348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1533,7 +1541,8 @@
     </option>
     <MESSAGE value="Some changes + translation from Chinese." />
     <MESSAGE value="Add backup folder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add backup folder." />
+    <MESSAGE value="Remove build folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove build folder." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
