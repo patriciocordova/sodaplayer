@@ -18,25 +18,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2445bd27-bafb-4341-8379-1b6e4f9a4446" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\sodaplayer\README.md" afterPath="" />
-      <change type="MOVED" beforePath="C:\sodaplayer\sodaplayer-lib\src\androidTest\java\com\test\sodaplayer\ApplicationTest.java" afterPath="$PROJECT_DIR$/sodaplayer-lib/src/androidTest/java/com/test/sodaplayer_lib/ApplicationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/model_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/model_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sodaplayer-lib/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sodaplayer-lib/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/FFmpegVideoView.java" afterPath="$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/FFmpegVideoView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sodaplayer-lib/build.gradle" afterPath="$PROJECT_DIR$/sodaplayer-lib/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bkp/sodaplayer-b9a601c5e71ffc959d9f1d943d056e788920e78a.zip" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\generated\source\buildConfig\debug\info\sodapanda\sodaplayer\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\generated\source\r\debug\info\sodapanda\sodaplayer\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\bundles\debug\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\bundles\debug\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\bundles\debug\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\bundles\debug\res\drawable\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\bundles\debug\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\bundles\debug\res\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\FFmpegVideoView$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\FFmpegVideoView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\FFmpegVideoView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\PlayCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\classes\debug\info\sodapanda\sodaplayer\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\incremental\aidl\debug\dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\incremental\aidl\test\debug\dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\incremental\mergeAssets\debug\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\intermediates\incremental\packageResources\debug\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\build\tmp\packageDebugJar\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jniLibs\armeabi-v7a\libffmpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jniLibs\armeabi\libffmpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jniLibs\x86\libffmpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\Application.mk" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\avcodec.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\avfft.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\dxva2.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\old_codec_ids.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\vaapi.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\vda.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\vdpau.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\version.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavcodec\xvmc.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\asrc_abuffer.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\avcodec.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\avfilter.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\avfiltergraph.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\buffersink.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\buffersrc.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavfilter\version.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavformat\avformat.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavformat\avio.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavformat\memcb.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavformat\version.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\adler32.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\aes.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\attributes.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\audio_fifo.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\audioconvert.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\avassert.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\avconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\avstring.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\avutil.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\base64.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\blowfish.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\bprint.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\bswap.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\buffer.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\channel_layout.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\common.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\cpu.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\crc.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\dict.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\error.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\eval.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\fifo.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\file.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\frame.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\hmac.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\imgutils.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\intfloat.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\intfloat_readwrite.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\intreadwrite.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\lfg.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\log.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\lzo.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\mathematics.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\md5.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\mem.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\murmur3.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\old_pix_fmts.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\opt.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\parseutils.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\pixdesc.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\pixfmt.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\random_seed.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\rational.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\ripemd.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\samplefmt.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\sha.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\sha512.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\time.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\timecode.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\timestamp.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\version.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libavutil\xtea.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libswresample\swresample.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libswresample\version.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libswscale\swscale.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\libswscale\version.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\include\threadqueue.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\libs\armeabi-v7a\libffmpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\libs\armeabi\libffmpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\libs\x86\libffmpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\src\main.c" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\jni\src\threadqueue.c" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\soda.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\src\main\java\info\sodapanda\sodaplayer\FFmpegVideoView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\src\main\java\info\sodapanda\sodaplayer\PlayCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\src\main\res\drawable\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\bkp\src\main\res\values\strings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sodaplayer-lib/sodaplayer-lib.iml" afterPath="$PROJECT_DIR$/sodaplayer-lib/sodaplayer-lib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sodaplayer-lib/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/sodaplayer-lib/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sodaplayer.iws" />
@@ -60,24 +162,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/info/sodapanda/sodaplayersample/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1445">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.7630208" vertical-offset="693" max-vertical-offset="1445">
+              <caret line="74" column="61" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FFmpegVideoView.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FFmpegVideoView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/FFmpegVideoView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.037626628" vertical-offset="212" max-vertical-offset="3332">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.392857" vertical-offset="2858" max-vertical-offset="3332">
+              <caret line="187" column="27" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayCallback.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/PlayCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1238,174 +1350,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer-lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer-lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer-lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer-lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayersample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sodaplayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -1441,11 +1385,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sodaplayer\bkp" />
       <recent name="C:\sodaplayer\sodaplayer-lib\src" />
       <recent name="C:\sodaplayer\sodaplayer-lib\libs" />
       <recent name="C:\sodaplayer\sodaplayer-lib\src\main" />
       <recent name="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\sodaplayer\libs" />
-      <recent name="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\sodaplayer\src\main\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\soda" />
@@ -1616,6 +1560,11 @@
       <created>1428283357110</created>
       <updated>1428283357110</updated>
     </task>
+    <task id="LOCAL-00001" summary="Some changes + translation from Chinese.">
+      <created>1428356197348</created>
+      <updated>1428356197348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1634,14 +1583,14 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42491657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20022246" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.541713" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2238806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2238806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1697,6 +1646,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Some changes + translation from Chinese." />
+    <option name="LAST_COMMIT_MESSAGE" value="Some changes + translation from Chinese." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1957,6 +1908,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2414">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1984,21 +1936,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/sodapanda/sodaplayersample/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/PlayCallback.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1445">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/FFmpegVideoView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.037626628" vertical-offset="212" max-vertical-offset="3332">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.392857" vertical-offset="2858" max-vertical-offset="3332">
+          <caret line="187" column="27" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/sodapanda/sodaplayersample/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7630208" vertical-offset="693" max-vertical-offset="1445">
+          <caret line="74" column="61" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
