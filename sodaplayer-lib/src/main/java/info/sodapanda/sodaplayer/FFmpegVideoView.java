@@ -38,7 +38,7 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
 		super(context);
         this.playCallback = playCallback;
 		instance = getPlayInstance(width,height);
-		Log.i("soda", "得到一个播放事例 "+instance);
+		Log.i("soda", "get the event of playing video "+instance);
 		
 		this.activity = (Activity) context;
 		initSurfaceView();
@@ -71,14 +71,14 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
 	 * @return audio buffer byte array
 	 */
 	public byte[] initAdudioTrack(int sample_rate){
-		Log.i("soda","java 得到采样率 "+sample_rate);
+		Log.i("soda","java get the sample rate: "+sample_rate);
 		int buffer_size=AudioTrack.getMinBufferSize(sample_rate, AudioFormat.CHANNEL_OUT_MONO, AudioFormat.ENCODING_PCM_16BIT);
 		if(buffer_size<8192){
 			buffer_size = 8192;
 		}
 		audioTrack = new AudioTrack(AudioManager.STREAM_MUSIC, sample_rate,AudioFormat.CHANNEL_OUT_MONO,AudioFormat.ENCODING_PCM_16BIT, buffer_size,AudioTrack.MODE_STREAM);
 
-		Log.e("soda", "音频Buffer_size "+buffer_size);
+		Log.e("soda", "Audio buffer_size "+buffer_size);
 		byte[] bytes = new byte[buffer_size];
 		return bytes;
 	}
@@ -104,7 +104,7 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
 	 * @param filename
 	 */
 	private void start(final String filename) {
-		//判断一下视频是不是正在播放，正在播放的话直接return 
+		//if video is playing, return
 		if(play_thread!=null && play_thread.isAlive()){
 			return ;
 		}
@@ -114,10 +114,10 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
 				is_playing = true;
 				int error=openfile(filename,instance);
 				is_playing = false;
-				if(error !=0){//打开文件错误
+				if(error !=0){//file opening error
 					activity.runOnUiThread(new Runnable() {
 						public void run() {
-							Log.i("soda","打开文件错误");
+							Log.i("soda","Error ocurred when trying to open the file");
 							stop();
                             videoDisConnected();
 						}
@@ -134,7 +134,7 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
 		}
 		this.rtmpUrlList = rtmpUrlList;
 		String filename = rtmpUrlList.get(0);
-        Log.i("soda","播放地址 "+filename);
+        Log.i("soda","The address is: "+filename);
 		start(filename);
 	}
 
@@ -146,12 +146,12 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
 		if (play_thread!=null) {
 			try {
 				play_thread.join();
-				Log.e("soda", "play_thread 返回");
+				Log.e("soda", "play_thread return");
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
 		}
-		Log.i("soda","停止声音");
+		Log.i("soda","stop playing audio");
 		if (audioTrack!=null) {
 			audioTrack.flush();
 			audioTrack.stop();
@@ -172,21 +172,21 @@ public class FFmpegVideoView extends SurfaceView implements SurfaceHolder.Callba
     }
 
     public void onNativeConnected(){
-		Log.i("soda","视频连接上了");
+		Log.i("soda","video connected successfully");
         playCallback.onConnected();
 		retry_time = 0;
 	}
 	
-	//**视频reconnect */
+	//**video reconnect */
 	public void videoDisConnected() {
 		if (retry_time < rtmpUrlList.size()) {
-			Log.i("test","第" + retry_time + "次重试,地址是" + rtmpUrlList.get(retry_time));
+			Log.i("test","Times tried:" + retry_time + " on the address " + rtmpUrlList.get(retry_time));
 			start(rtmpUrlList.get(retry_time));
 		} else {
-			Log.i("test", "重试" + retry_time + "失败 退出");
+			Log.i("test", retry_time + " times. Timed out.");
 			stop();
 			retry_time = 0;
-			Toast.makeText(activity, "视频连接失败", Toast.LENGTH_LONG).show();
+			Toast.makeText(activity, "Fail to connect of the video address.", Toast.LENGTH_LONG).show();
 		}
 		retry_time++;
 	}

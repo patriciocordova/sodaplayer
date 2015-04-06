@@ -9,6 +9,13 @@
         <dex dex="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8d653238a9e211de842e69bf85e03f5cc645ff2b.jar" />
     </item>
     <item
+        jar="C:\sodaplayer\app\build\intermediates\exploded-aar\sodaplayer\sodaplayer-lib\unspecified\libs\lib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d031ed12f8b758a7a4f8bea10e5b54895f611474">
+        <dex dex="C:\sodaplayer\app\build\intermediates\pre-dexed\debug\lib-9755623245be6b55240bae57f354052c7435d78e.jar" />
+    </item>
+    <item
         jar="C:\sodaplayer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -30,11 +37,25 @@
         <dex dex="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\app\build\intermediates\pre-dexed\debug\classes-27e9c5696af05aea08f88e2bf19182e732360a81.jar" />
     </item>
     <item
+        jar="C:\sodaplayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\sodaplayer\app\build\intermediates\pre-dexed\debug\classes-55cf17181fe837203d56bb5b38c132a54f876da5.jar" />
+    </item>
+    <item
         jar="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\app\build\intermediates\exploded-aar\sodaplayer1\sodaplayer\unspecified\libs\lib.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="d031ed12f8b758a7a4f8bea10e5b54895f611474">
         <dex dex="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\app\build\intermediates\pre-dexed\debug\lib-46d61175cafe23a0a301ff54c92b0af5843e17c1.jar" />
+    </item>
+    <item
+        jar="C:\sodaplayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\sodaplayer\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e4607493979a1d74047a0890188b6ad7d5d7d02c.jar" />
     </item>
     <item
         jar="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
@@ -65,6 +86,13 @@
         <dex dex="C:\sodaplayer1\app\build\intermediates\pre-dexed\debug\classes-603b033d9c6d55cfc576ddfd1ca24b75e5c1062f.jar" />
     </item>
     <item
+        jar="C:\sodaplayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\sodaplayer\app\build\intermediates\pre-dexed\debug\classes-5bde753423f1e6a33a1dcd61fbfd705f0c2676c3.jar" />
+    </item>
+    <item
         jar="C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1\app\build\intermediates\exploded-aar\sodaplayer1\sodaplayer\unspecified\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -84,6 +112,13 @@
         revision="21.1.2"
         sha1="d031ed12f8b758a7a4f8bea10e5b54895f611474">
         <dex dex="C:\sodaplayer1\app\build\intermediates\pre-dexed\debug\lib-3b6b134fa5803a2d38c1f344b48ee3136dc8f6b3.jar" />
+    </item>
+    <item
+        jar="C:\sodaplayer\app\build\intermediates\exploded-aar\sodaplayer\sodaplayer-lib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d21d3dcd12a7e8c844cd32c5954f8d95902935aa">
+        <dex dex="C:\sodaplayer\app\build\intermediates\pre-dexed\debug\classes-e36ad9b77019bcabf9de2e287b88101bcdad6df9.jar" />
     </item>
 
 </items>

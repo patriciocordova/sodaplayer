@@ -1,4 +1,4 @@
-package com.test.sodaplayer;
+package com.test.sodaplayer_lib;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/sodaplayer" />
+            <option value="$PROJECT_DIR$/sodaplayer-lib" />
+            <option value="$PROJECT_DIR$/sodaplayerlib" />
           </set>
         </option>
       </GradleProjectSettings>

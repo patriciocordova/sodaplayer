@@ -1,1 +1,1 @@
-include ':app', ':app', ':sodaplayer'
+include ':app', ':app', ':sodaplayer', ':sodaplayerlib', ':sodaplayer-lib', ':'
