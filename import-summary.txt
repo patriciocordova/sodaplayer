@@ -1,0 +1,81 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Andrés\Documents\U of T\AndroidProjects\sodaplayer1
+                           -  -                             
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* README.md
+* SodaplayerSample\
+* SodaplayerSample\.project
+* SodaplayerSample\AndroidManifest.xml
+* SodaplayerSample\ic_launcher-web.png
+* SodaplayerSample\libs\
+* SodaplayerSample\libs\android-support-v4.jar
+* SodaplayerSample\proguard-project.txt
+* SodaplayerSample\project.properties
+* SodaplayerSample\res\
+* SodaplayerSample\res\drawable-hdpi\
+* SodaplayerSample\res\drawable-hdpi\ic_launcher.png
+* SodaplayerSample\res\drawable-mdpi\
+* SodaplayerSample\res\drawable-mdpi\ic_launcher.png
+* SodaplayerSample\res\drawable-xhdpi\
+* SodaplayerSample\res\drawable-xhdpi\ic_launcher.png
+* SodaplayerSample\res\drawable-xxhdpi\
+* SodaplayerSample\res\drawable-xxhdpi\ic_launcher.png
+* SodaplayerSample\res\values-v11\
+* SodaplayerSample\res\values-v11\styles.xml
+* SodaplayerSample\res\values-v14\
+* SodaplayerSample\res\values-v14\styles.xml
+* SodaplayerSample\res\values\
+* SodaplayerSample\res\values\strings.xml
+* SodaplayerSample\res\values\styles.xml
+* SodaplayerSample\src\
+* SodaplayerSample\src\info\
+* SodaplayerSample\src\info\sodapanda\
+* SodaplayerSample\src\info\sodapanda\sodaplayersample\
+* SodaplayerSample\src\info\sodapanda\sodaplayersample\MainActivity.java
+* build_android.sh
+* ic_launcher-web.png
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* jni\ => app\src\main\jni\
+* libs\armeabi-v7a\libffmpeg.so => app\src\main\jniLibs\armeabi-v7a\libffmpeg.so
+* libs\armeabi\libffmpeg.so => app\src\main\jniLibs\armeabi\libffmpeg.so
+* libs\x86\libffmpeg.so => app\src\main\jniLibs\x86\libffmpeg.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
