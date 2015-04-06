@@ -18,13 +18,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2445bd27-bafb-4341-8379-1b6e4f9a4446" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\outputFileStates.bin" afterPath="" />
-      <change type="DELETED" beforePath="C:\sodaplayer\.gradle\2.2.1\taskArtifacts\taskArtifacts.bin" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\libraries\appcompat_v7_22_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\libraries\lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\libraries\support_annotations_22_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\libraries\support_v4_22_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sodaplayer\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="sodaplayer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +57,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/info/sodapanda/sodaplayersample/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40885416" vertical-offset="693" max-vertical-offset="1445">
-              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.49739584" vertical-offset="693" max-vertical-offset="1445">
+              <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -1171,6 +1178,7 @@
         <option value="$PROJECT_DIR$/sodaplayer-lib/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/sodaplayer-lib/src/main/java/info/sodapanda/sodaplayer/FFmpegVideoView.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1457,7 +1465,11 @@
       <created>1428356872348</created>
       <updated>1428356872348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Remove gradle folder.">
+      <created>1428357006055</created>
+      <updated>1428357006055</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1542,7 +1554,8 @@
     <MESSAGE value="Some changes + translation from Chinese." />
     <MESSAGE value="Add backup folder." />
     <MESSAGE value="Remove build folder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove build folder." />
+    <MESSAGE value="Remove gradle folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove gradle folder." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1849,10 +1862,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.088541664" vertical-offset="0" max-vertical-offset="384">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/info/sodapanda/sodaplayersample/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40885416" vertical-offset="693" max-vertical-offset="1445">
-          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.49739584" vertical-offset="693" max-vertical-offset="1445">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
           <folding />
         </state>
       </provider>
